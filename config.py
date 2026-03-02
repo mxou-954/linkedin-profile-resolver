@@ -1,6 +1,6 @@
-INPUT_XLSX = "sss.xlsx"
+INPUT_XLSX = "input.xlsx"
 OUTPUT_XLSX = "output.xlsx"
-SHEET_NAME = "ColisConsult"
+SHEET_NAME = "Sheet1"
 
 COLUMN_QUERY = "Recherche"
 COLUMN_LINKEDIN = "Lien_Linkedin"
