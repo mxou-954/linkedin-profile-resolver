@@ -75,9 +75,9 @@ Tout se modifie dans `config.py` :
 
 | Variable | Default | Description |
 |----------|---------|-------------|
-| `INPUT_XLSX` | `sss.xlsx` | Fichier Excel d'entrée |
+| `INPUT_XLSX` | `input.xlsx` | Fichier Excel d'entrée |
 | `OUTPUT_XLSX` | `output.xlsx` | Fichier Excel de sortie |
-| `SHEET_NAME` | `ColisConsult` | Nom de l'onglet à lire |
+| `SHEET_NAME` | `Sheet1` | Nom de l'onglet à lire |
 | `COLUMN_QUERY` | `Recherche` | Colonne contenant la requête Google |
 | `COLUMN_LINKEDIN` | `Lien_Linkedin` | Colonne de sortie pour le lien trouvé |
 | `MAX_RESULTS_GOOGLE` | `10` | Nombre de résultats Google inspectés |
